@@ -8,6 +8,6 @@
 #include<stdio.h>
 Int main(int argc, char argv).
 {
-	printf(“John Gallagher, Computer Science\n”);
+	printf(“John Gallagher, Computer Science and Christopher White, Computer Engineering\n”);
 	return 0;
 }
